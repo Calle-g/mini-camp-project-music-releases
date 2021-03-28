@@ -78,25 +78,25 @@ code {
   background-color: #000000;
 }
 
+.album-cover-container:hover .icon-container {
+  opacity: 1;
+  transition: all .3s ease;
+}
+
+.album-cover-container:hover .album-cover {
+  opacity: 0.3;
+  transition: all .4s ease;
+}
+
 @media(hover: hover) and (pointer: fine) {
-  .icon-play:hover {
-    transform: scale(1.1);
-    filter: invert(95%) sepia(0%) saturate(0%) hue-rotate(243deg) brightness(105%) contrast(107%);
-  }
-
-  .album-cover-container:hover .icon-container {
-    opacity: 1;
-    transition: all .3s ease;
-  }
-
-  .album-cover-container:hover .album-cover {
-    opacity: 0.3;
-    transition: all .4s ease;
-  }
-
   .description a:hover {
     text-decoration: underline;
     color: #ffffff;
+  }
+
+  .icon-play:hover {
+    transform: scale(1.1);
+    filter: invert(95%) sepia(0%) saturate(0%) hue-rotate(243deg) brightness(105%) contrast(107%);
   }
 }
 
