@@ -52,26 +52,22 @@ code {
 .icon-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   position: absolute;
   top: 50%;
   transform: translate(0, -50%);
   opacity: 0;
-  margin-left: 15%;
-  margin-right: 15%;
+  width: 100%;
 }
 
 .icon-container img {
-  width: 33%;
+  width: 28%;
   filter: invert(99%) sepia(0%) saturate(7465%) hue-rotate(249deg) brightness(123%) contrast(68%);
+  margin: 0 auto;
 }
 
 .icon-container img:first-child, .icon-container img:last-child {
-  width: 18%;
-}
-
-.icon-play {
-  transition: all .2s ease;
+  width: 14%;
 }
 
 .album-cover-wrapper {
@@ -95,7 +91,8 @@ code {
   }
 
   .icon-play:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
+    transition: all .2s ease;
     filter: invert(95%) sepia(0%) saturate(0%) hue-rotate(243deg) brightness(105%) contrast(107%);
   }
 }
