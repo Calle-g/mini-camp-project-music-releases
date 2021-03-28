@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38483e22-b1fe-4546-af46-4b168dc07d71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/AlbumCards.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AlbumCover.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AlbumDescription.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IconContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/keysToCamel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/dots.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/dots.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/heart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/heart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons/play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pnCFImvjGMdW3J7IggZmUEFBKj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38483e22-b1fe-4546-af46-4b168dc07d71" name="Default Changelist" comment="" />
+      <created>1615809362186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615809362186</updated>
+      <workItem from="1615809363988" duration="201000" />
+      <workItem from="1615809727128" duration="16082000" />
+      <workItem from="1615921044373" duration="1245000" />
+      <workItem from="1615964356229" duration="954000" />
+      <workItem from="1615985596808" duration="11362000" />
+      <workItem from="1616495686313" duration="391000" />
+      <workItem from="1616570354498" duration="144000" />
+      <workItem from="1616692360859" duration="94000" />
+      <workItem from="1616932230446" duration="16863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
