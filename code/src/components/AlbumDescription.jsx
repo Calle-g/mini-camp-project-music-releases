@@ -9,7 +9,7 @@ export const AlbumDescription = (props) => {
   const renderArtists = artists.map(({ name, externalUrls }, index) => {
     const delimiter = index + 2 === artists.length ? ' & ' : ' , '
     return (
-      <><a key={index} href={externalUrls.spotify} target="_blank" rel="noreferrer">{name}</a>{props.artists.length - 1 > index && delimiter}</>
+      <span key={index}><a href={externalUrls.spotify} target="_blank" rel="noreferrer">{name}</a>{props.artists.length - 1 > index && delimiter}</span>
     )
   })
 

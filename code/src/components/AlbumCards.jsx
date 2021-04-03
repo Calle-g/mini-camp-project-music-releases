@@ -5,12 +5,12 @@ import { IconContainer } from './IconContainer'
 
 export const AlbumCards = (props) => {
   return (
-    <div className="container">
+    <div className="album-container">
       {props.albums.items.sort((a, b) => {
         return new Date(a.releaseDate) - new Date(b.releaseDate);
-      }).map((item) => {
+      }).map((item, index) => {
         return (
-          <div className="album-card">
+          <div key={index} className="album-card">
             <div className="album-cover-container">
               <AlbumCover images={item.images} height={640} />
               <IconContainer />
