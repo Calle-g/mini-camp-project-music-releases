@@ -62,7 +62,8 @@ code {
 
 .icon-container img {
   width: 28%;
-  filter: invert(99%) sepia(0%) saturate(7465%) hue-rotate(249deg) brightness(123%) contrast(68%);
+  filter: invert(95%) sepia(0%) saturate(0%) hue-rotate(243deg) brightness(105%) contrast(107%);
+  opacity: 0.6;
   margin: 0 auto;
 }
 
@@ -92,8 +93,8 @@ code {
 
   .icon-play:hover {
     transform: scale(1.05);
+    opacity: 1;
     transition: all .2s ease;
-    filter: invert(95%) sepia(0%) saturate(0%) hue-rotate(243deg) brightness(105%) contrast(107%);
   }
 }
 
