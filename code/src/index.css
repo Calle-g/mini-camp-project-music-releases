@@ -40,10 +40,15 @@ code {
   outline: none;
 }
 @media (hover: hover) {
-  .filter-button.active, .filter-button:hover {
+  .filter-button:hover {
     color: #ffffff;
     text-decoration: underline;
   }
+}
+
+.filter-button.active {
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 .flex-wrapper {
