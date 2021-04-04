@@ -4,11 +4,11 @@ import { IconContainer } from './IconContainer';
 
 export const PlayLists = (props) => {
   return (
-    <div className="sidebar">
-      {props.playlists.items.map((item, index) => {
+    <div className={`sidebar${props.hide ? ' hidden' : ''}`}>
+      {props.playlists.map((item, index) => {
         return (
-          <div className="album-cover-container">
-            <AlbumCover key={index} images={item.images} />
+          <div key={index} className="album-cover-container">
+            <AlbumCover images={item.images} />
             <IconContainer />
           </div>
         )

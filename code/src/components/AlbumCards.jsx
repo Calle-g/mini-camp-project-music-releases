@@ -6,7 +6,7 @@ import { IconContainer } from './IconContainer'
 export const AlbumCards = (props) => {
   return (
     <div className="album-container">
-      {props.albums.items.sort((a, b) => {
+      {props.albums.sort((a, b) => {
         return new Date(a.releaseDate) - new Date(b.releaseDate);
       }).map((item, index) => {
         return (

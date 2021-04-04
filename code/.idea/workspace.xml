@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38483e22-b1fe-4546-af46-4b168dc07d71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/PlayLists.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Albums.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FilterButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/AlbumCards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AlbumCards.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AlbumCover.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AlbumCover.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AlbumDescription.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AlbumDescription.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/IconContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/IconContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlayLists.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PlayLists.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +51,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,7 +85,8 @@
       <workItem from="1616958535605" duration="1112000" />
       <workItem from="1617000391599" duration="393000" />
       <workItem from="1617001410978" duration="55000" />
-      <workItem from="1617448736129" duration="10279000" />
+      <workItem from="1617448736129" duration="16229000" />
+      <workItem from="1617539191245" duration="23032000" />
     </task>
     <servers />
   </component>

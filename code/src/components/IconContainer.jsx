@@ -1,7 +1,7 @@
 import React from 'react'
-import heart from '../icons/heart.svg';
-import play from '../icons/play.svg';
-import dots from '../icons/dots.svg';
+import heart from '../icons/heart.svg'
+import play from '../icons/play.svg'
+import dots from '../icons/dots.svg'
 
 export const IconContainer = () => {
   return (
